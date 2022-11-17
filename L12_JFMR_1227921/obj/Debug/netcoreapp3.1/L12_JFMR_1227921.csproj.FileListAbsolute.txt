@@ -1,0 +1,14 @@
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\bin\Debug\netcoreapp3.1\L12_JFMR_1227921.exe
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\bin\Debug\netcoreapp3.1\L12_JFMR_1227921.deps.json
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\bin\Debug\netcoreapp3.1\L12_JFMR_1227921.runtimeconfig.json
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\bin\Debug\netcoreapp3.1\L12_JFMR_1227921.runtimeconfig.dev.json
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\bin\Debug\netcoreapp3.1\L12_JFMR_1227921.dll
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\bin\Debug\netcoreapp3.1\L12_JFMR_1227921.pdb
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.csproj.AssemblyReference.cache
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.AssemblyInfoInputs.cache
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.AssemblyInfo.cs
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.csproj.CoreCompileInputs.cache
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.dll
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.pdb
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L12_JFMR_1227921\obj\Debug\netcoreapp3.1\L12_JFMR_1227921.genruntimeconfig.cache
