@@ -1,0 +1,14 @@
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\bin\Debug\netcoreapp3.1\L_14_JFMR.exe
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\bin\Debug\netcoreapp3.1\L_14_JFMR.deps.json
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\bin\Debug\netcoreapp3.1\L_14_JFMR.runtimeconfig.json
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\bin\Debug\netcoreapp3.1\L_14_JFMR.runtimeconfig.dev.json
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\bin\Debug\netcoreapp3.1\L_14_JFMR.dll
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\bin\Debug\netcoreapp3.1\L_14_JFMR.pdb
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.csproj.AssemblyReference.cache
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.AssemblyInfoInputs.cache
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.AssemblyInfo.cs
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.csproj.CoreCompileInputs.cache
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.dll
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.pdb
+C:\Users\jfMen\OneDrive\Documents\URL Clases\Segundo ciclo 2022\Programación\TS progra\L_14_JFMR\obj\Debug\netcoreapp3.1\L_14_JFMR.genruntimeconfig.cache
